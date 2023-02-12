@@ -5,8 +5,7 @@ This code is used to implement a three-dimensional vector class using JavaScript
 The purposes of each of the following files are stated below:
 
 
-Vec3.js - to provide an implementation of a three-dimensional vector class that is immutable, where none of the functions on the class modify the vector's
-properties, and returns a new vector with the computed value
+Vec3.js - to provide an implementation of a three-dimensional vector class that is immutable, where none of the functions on the class modify the vector's properties, and returns a new vector with the computed value
 
 Vec3.spec.js - to test the vector program
 
