@@ -1,6 +1,6 @@
 Vector3D-Class
 
-This code is used to implement a three-dimensional vector class using JavaScript's built in Class syntax.
+This code is used to implement a three-dimensional vector class using JavaScript's built in Class syntax
 
 The purposes of each of the following files are stated below:
 
@@ -17,6 +17,7 @@ package.json - package file listing dependencies and information
 Node.js will need to be installed, which can be downloaded from: https://nodejs.org/en/.
 
 Run the source code by typing the following at the prompt >:
-> npm test
+
+\> npm test
 
 Code is available upon request
